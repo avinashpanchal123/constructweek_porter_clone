@@ -1,7 +1,5 @@
 # constructweek_porter_clone
 Buiding the clone of porter.in using HTML CSS and Javascript. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page
-<h1>Lakme Clone</h1>
-<p>This Project is built using pure JavaScript, CSS and HTML.
 
 
 ## How to run the website?
