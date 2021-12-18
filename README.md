@@ -37,7 +37,7 @@ Buiding the clone of porter.in using HTML CSS and Javascript. Major pages includ
 ## Functionalities Added
 <ul>
   <li>Added Slide Show Functionality</li>
-  <li>Added Aress Enging Bar using Local Storage and Debouncing</li>
+  <li>Added Address Enging Bar using Local Storage and Debouncing</li>
   <li>Pop up Functionality for booking House Shifting and Order Tracking</li>
   <li>Implemented Subdiv Parts inside FAQs Categories</li>
   <li>Designed Graphics using CSS Animations</li>
